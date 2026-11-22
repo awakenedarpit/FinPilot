@@ -1,0 +1,6 @@
+{
+  "name": "FinPilot AI",
+  "description": "Personal financial intelligence platform with deterministic analytics, CSV ingestion, anomaly detection, cash-flow forecasting, and a tool-grounded Gemini AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
